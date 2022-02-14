@@ -1,0 +1,17 @@
+.sButton1,
+.sButton2 {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    border-width: 4px;
+
+}
+
+.sButton1 {
+    background-color: black;
+    color: white;
+}
+
+.sButton2 {
+    background-color: yellow;
+    color: black;
+}
