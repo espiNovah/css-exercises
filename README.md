@@ -1,3 +1,7 @@
+UPDATE: `I've completed each of the CSS Flex task`
+Flex Box is indeed an innovation to the status quo. It was fun learning how to put things in specific places on the viewport.
+
+
 # CSS Exercises
 
 These exercises are a series of CSS related tasks intended to complement the HTML and CSS content on The Odin Project.
